@@ -5,7 +5,7 @@ Dataset: https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Registro-de-me
 
 ## Historias de Usuario
 
-![Historia1](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/diagrama_clases_ventiuna.jpg)
+![Historia1](https://github.com/cristianrodriguez05/Proyecto_Final_FIS_Metodologia_XP/blob/main/Historias%20de%20Usuario/Historia%20de%20usuario%201.png)
 
 ![Historia2](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/diagrama_secuencia_ventiuna.png)
 
