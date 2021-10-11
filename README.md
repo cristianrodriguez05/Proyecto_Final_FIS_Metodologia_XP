@@ -1,5 +1,13 @@
 # Proyecto Final FIS Metodologia XP
 
+## Integrantes
+
+  - Esteban David Vargas Medina - 20181020063
+
+  - Jhon Sebastian Alberto Cortes - 20191020117
+
+  - Cristian David Rodríguez López - 20171020072  
+
 ## Dataset
 Dataset: https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Registro-de-mediciones-de-campos-electromagn-ticos/xhu9-3dq9
 
